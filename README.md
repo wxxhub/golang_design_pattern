@@ -4,3 +4,4 @@
 [factory](factory/README.md)
 [singleton](singleton/README.md)
 [prototype](prototype/README.md)
+[build](build/README.md)
